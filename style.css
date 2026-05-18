@@ -1,0 +1,43 @@
+.text{
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 150px;
+    color: aliceblue;
+}
+body{
+    background-color: black ;
+    
+}
+.text2{
+    text-align: center;
+   
+    color: aliceblue;
+}
+.text3{
+    text-align: center;
+    color: red;
+}
+.wite{
+   background-color: aliceblue;
+   height: 50px;
+}
+.home{
+    color:black;
+padding-top: 15px;
+padding-left: 1400px;
+}
+.home:hover{
+    color: red;
+}
+.img{
+    position: relative;
+  top: -50px;
+   
+}  
+{
+    background-image: url(/iStock-1690372577-scaled.jpg) ;
+}
+.About{
+    color: black;
+    padding-bottom: -1000px;
+}
